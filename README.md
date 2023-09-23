@@ -1,1 +1,3 @@
-Developed a user-friendly web app to manage personal income and expenses. Implemented real-time balance calculation, transaction history, and custom styling using React.js and Material-UI.
+# Budget Tracker
+Created a user-friendly interface with Material-UI components, ensuring a modern and responsive design.
+Implemented state management using React's useState hook to dynamically update and display financial transactions.
